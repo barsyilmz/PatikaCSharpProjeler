@@ -8,7 +8,7 @@
 
 4 - İndex Değiştirme
 
-5 - Sessiz Harf Kontrolü
+5 - Sessiz Harf Kontrol
 
 6 - Voting Uygulaması
 
